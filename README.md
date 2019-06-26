@@ -7,7 +7,7 @@ Published under the MIT license
 
 If you use this toolbox in your research, please cite the following paper:
 
-- R. Reisenhofer, and E. J. King, "Edge, Ridge, and Blob Detection with Symmetric Molecules". [(PDF)](Edge_Ridge_and_Blob_Detection_rev1.pdf) [(Supp. Material)](Edge_Ridge_and_Blob_Detection_SuppMat.pdf) <br>
+- R. Reisenhofer, and E. J. King. "Edge, Ridge, and Blob Detection with Symmetric Molecules". [(PDF)](Edge_Ridge_and_Blob_Detection_rev1.pdf) [(Supp. Material)](Edge_Ridge_and_Blob_Detection_SuppMat.pdf) <br>
   To appear in SIAM Journal on Imaging Sciences. 
   
 ## How to get started
