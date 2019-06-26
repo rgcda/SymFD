@@ -1,2 +1,2 @@
 # SymFD
-SymFD is a toolbox for the detection and characterizatino of edges, ridges, and blobs in 2D images.
+SymFD is a toolbox for the detection and characterization of edges, ridges, and blobs in 2D images.
