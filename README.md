@@ -7,8 +7,9 @@ Published under the MIT license
 
 If you use this toolbox in your research, please cite the following paper:
 
-- R. Reisenhofer, E. J. King, "Edge, Ridge, and Blob Detection with Symmetric Molecules"
-
+- R. Reisenhofer, and E. J. King, "Edge, Ridge, and Blob Detection with Symmetric Molecules". [(PDF)](Edge_Ridge_and_Blob_Detection_rev1.pdf) [(Supp. Material)](Edge_Ridge_and_Blob_Detection_SuppMat.pdf) <br>
+  To appear in SIAM Journal on Imaging Sciences. 
+  
 ## How to get started
 
 1. Add all folders and subfolders to your MATLAB path
@@ -39,6 +40,10 @@ The file i19.bmp is part of the Tampere Image Database (TID) 2008:
 N. Ponomarenko, V. Lukin, A. Zelensky, K. Egiazarian, M. Carli, F. Battisti,
 "TID2008 - A Database for Evaluation of Full-Reference Visual Quality Assessment Metrics",
 Advances of Modern Radioelectronics, Vol. 10, pp. 30-45, 2009.
+
+## User Guide
+
+A [user guide](SymFD_User_Guide.pdf) is available in the repository.
 
 ## Examples
 
